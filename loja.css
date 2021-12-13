@@ -37,7 +37,7 @@ body{
 
 
 #banner{
-    background-image: url(imagens/imagemloja.jpg);
+    background-image: url(imagemloja.jpg);
     background-size: cover;
     background-position: center center;
     width: 100%;
@@ -56,7 +56,7 @@ body{
 }
 
 #R1{
-    background-image:url(imagens/R1.jpg);
+    background-image:url(R1.jpg);
     background-repeat: no-repeat;
     background-position: right;
     background-size: 26%;
@@ -69,7 +69,7 @@ body{
 }
 
 #R2{ 
-    background-image:url(imagens/R2\ 2.1.png);
+    background-image:url(R2\ 2.1.png);
     background-repeat: no-repeat;
     background-position:  right;
     background-size: 26%;
@@ -82,7 +82,7 @@ body{
 }
 
 #R3{
-    background-image:url(imagens/R3.png);
+    background-image:url(R3.png);
     background-repeat: no-repeat;
     background-position:  right;
     background-size: 26%;
