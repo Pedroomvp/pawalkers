@@ -1,0 +1,98 @@
+h1{
+    font-size: 110px;
+    font-family: 'Dancing Script', cursive;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: rgba(211, 211, 211, 0.308);
+}
+
+#geral {
+    font-family:'Andada Pro', serif;
+    display:flex;
+    flex-direction:column;
+    margin-right: 15% ;
+    margin-left: 15% ;
+    background-color: rgb(255, 255, 255);
+}
+
+#geral h2{
+    font-size: 50px;
+    margin-bottom: 30px;
+    margin-top: 35px;
+}
+
+#geral h3{
+    font-size: 25px;
+    width: 40%;
+    margin-top: 9px;
+    margin-bottom: 90px;
+}
+
+#geral form{
+    font-size: 28px;
+}
+
+
+#banner{
+    background-image: url(imagens/imagemloja.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 550px;
+    display: flex;
+    justify-content:flex-start;
+    flex-direction:column;
+    margin-bottom: 50px;
+}
+
+#banner h2{
+    font-size: 25px;
+    font-family: 'Andada Pro', serif;
+    margin-left: 50px;
+    width:25%
+}
+
+#R1{
+    background-image:url(imagens/R1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 26%;
+    width: 97.5%;
+    margin-right: 50px;
+    background-size: contain;
+    margin-bottom: 150px;
+    border-bottom: 3px darkseagreen solid;
+    padding: 10px;
+}
+
+#R2{ 
+    background-image:url(imagens/R2\ 2.1.png);
+    background-repeat: no-repeat;
+    background-position:  right;
+    background-size: 26%;
+    width: 97.5%;
+    margin-right: 50px;
+    background-size: contain;
+    margin-bottom: 150px;
+    border-bottom: 3px darkseagreen solid;
+    padding: 10px;
+}
+
+#R3{
+    background-image:url(imagens/R3.png);
+    background-repeat: no-repeat;
+    background-position:  right;
+    background-size: 26%;
+    width:  97.5%;
+    margin-right: 50px;
+    background-size: contain;
+}
+
+#footer{
+    align-self: center;
+    justify-self: center;
+    flex-direction: row;
+}
